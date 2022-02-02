@@ -70,7 +70,7 @@ background-image: repeating-linear-gradient(315deg, #00FFFF2E 92%, #073AFF00 100
 }
 
 .button-77:before {
-  background-color: rgba(249, 58, 19, .32);
+  background-color: rgba(205,248,241,1);
   content: "";
   display: block;
   height: 100%;
