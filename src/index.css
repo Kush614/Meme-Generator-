@@ -121,8 +121,8 @@ background-image: repeating-linear-gradient(315deg, #00FFFF2E 92%, #073AFF00 100
   opacity: .24;
 }
 .button-77 {
-  margin-bottom: 3rem;
-  box-shadow: 0.0;
+  margin-bottom: 3rem !important;
+  box-shadow: 0.0 !important;
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
