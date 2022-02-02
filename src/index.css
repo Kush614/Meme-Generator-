@@ -155,6 +155,7 @@ h1 {
   background-color: #eeeeee;
   border-radius: 1rem 0 0 1rem;
   box-shadow: 0.278rem 0.444rem 0.556rem #0000005c;
+  background-image: url("ocean.jpg");
 }
 
 label {
