@@ -6,6 +6,7 @@ input {
 }
 
 body {
+  box-shadow: 0.0 !important;
   margin: 0;
   background-color: #393e46;
   box-sizing: border-box;
