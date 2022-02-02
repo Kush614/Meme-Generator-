@@ -178,7 +178,7 @@ input {
 input,
 button {
   margin-bottom: 3rem;
-  box-shadow: -0.222rem 0.167rem 0.444rem 0 #c5c5c5;
+  box-shadow: 0;
 }
 
 button {
