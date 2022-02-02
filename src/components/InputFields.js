@@ -85,8 +85,8 @@ export default function InputFields(props) {
         }
       >
         Create Meme
-      </button>
-      <button onClick={() => download(props.memeUrl, props.chosenMeme)}>
+      </button> 
+      <button className = "button-77" onClick={() => download(props.memeUrl, props.chosenMeme)}> 
         Download
       </button>
     </div>
