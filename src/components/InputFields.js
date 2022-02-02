@@ -76,8 +76,8 @@ export default function InputFields(props) {
           }}
         />
       </div>
-      <button onClick={() => props.setOverlayHidden(false)}>Choose Meme</button>
-      <button
+      <button className = "button-77" onClick={() => props.setOverlayHidden(false)}>Choose Meme</button> 
+      <button className = "button-77"
         onClick={() =>
           props.setMemeUrl(
             `https://api.memegen.link/images/${props.chosenMeme}/${props.topText}/${props.bottomText}.jpg?width=450&height=450`,
